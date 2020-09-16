@@ -11,7 +11,7 @@ LECTURE 1.1: Basic Statistical Concept. Intro R and Rstudio. ([pdf](https://driv
 
 TUTORIAL 1.1: Set up your computer environment. Basic commands. ([pdf](https://drive.google.com/file/d/1pzLPXw2KcSLVOmuRSZnFK3p0N36Mr4Yb/view?usp=sharing){:target="_blank"})  
 
-LECTURE 1.2: Data structures in R. Vectors, Matrices, Data frames, List. ([pdf](https://drive.google.com/file/d/1ATOy7jhOkjhvgASO456EqNdCz3UdkRLX/view?usp=sharing){:target="_blank"})  
+LECTURE 1.2: Data structures in R. Vectors, Matrices, Data frames, List. ([pdf](https://drive.google.com/file/d/1IeKLNP1gjGO_rB2fsXsZJNUSRSNK2Mcy/view?usp=sharing){:target="_blank"})  
 
 TUTORIAL 1.2: Produce a script that reads matrices and data frames, manipulates them, read, and write files. ([pdf])  
 
