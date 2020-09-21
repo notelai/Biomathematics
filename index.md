@@ -13,7 +13,7 @@ TUTORIAL 1.1: Set up your computer environment. Basic commands. ([pdf](https://d
 
 LECTURE 1.2: Data structures in R. Vectors, Matrices, Data frames, List. ([pdf](https://drive.google.com/file/d/1IeKLNP1gjGO_rB2fsXsZJNUSRSNK2Mcy/view?usp=sharing){:target="_blank"})  
 
-TUTORIAL 1.2: Produce a script that reads matrices and data frames, manipulates them, read, and write files. ([pdf])  
+TUTORIAL 1.2: Produce a script that reads matrices and data frames, manipulates them, read, and write files. ([pdf](https://drive.google.com/file/d/1VEpF8kVDijP8A3oUJX-hRux6zdaXgR8j/view?usp=sharing){:target="_blank"})  ([data](https://drive.google.com/file/d/11JhgFVdXldqEuKTj6RCtcvhPkLL03AnL/view?usp=sharing){:target="_blank"})  (Solution)    
 
 LECTURE 1.3: Packages, Plots & Graphics in R. ([pdf])  
 
