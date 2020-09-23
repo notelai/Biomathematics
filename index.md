@@ -15,17 +15,21 @@ LECTURE 1.2: Data structures in R. Vectors, Matrices, Data frames, List. ([pdf](
 
 TUTORIAL 1.2: Produce a script that reads matrices and data frames, manipulates them, read, and write files. ([pdf](https://drive.google.com/file/d/1VEpF8kVDijP8A3oUJX-hRux6zdaXgR8j/view?usp=sharing){:target="_blank"})  ([data](https://drive.google.com/file/d/11JhgFVdXldqEuKTj6RCtcvhPkLL03AnL/view?usp=sharing){:target="_blank"})  (Solution)    
 
-LECTURE 1.3: Packages, Plots & Graphics in R. ([pdf])  
+LECTURE 1.3: Packages, Input/Output. ([pdf])  
 
-TUTORIAL 1.3: Plots & Graphics in R. Structure of ggplot2 commands, scatter plots. ([pdf])  
+TUTORIAL 1.3: . ([pdf])  
 
 Online Quiz 1. ([link])  
 
-LECTURE 1.4: Epidemiological Study Design. ([pdf])  
+LECTURE 1.4: Plots & Graphics in R. ([pdf])  
 
-TUTORIAL 1.4: Data Entry for a statistical analysis. ([pdf])  
+TUTORIAL 1.4: Plots & Graphics in R. Structure of ggplot2 commands, scatter plots. ([pdf])  
 
 PROBLEM SET 1. (pdf) [![](img/submit.png)](#){:target="_blank"}  
+
+BONUS 1: Epidemiological Study Design. Data Entry for a statistical analysis.  
+
+BONUS 2: Describe patterns in string. Conditional statement. Repetitive execution.
 
 #### MODULE 2. Descriptive statistics
 Online Quiz 2. ([link])  
