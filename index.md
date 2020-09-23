@@ -29,7 +29,9 @@ PROBLEM SET 1. (pdf) [![](img/submit.png)](#){:target="_blank"}
 
 BONUS 1: Epidemiological Study Design. Data Entry for a statistical analysis.  
 
-BONUS 2: Describe patterns in string. Conditional statement. Repetitive execution.
+BONUS 2: Describe patterns in string. Conditional statement. Repetitive execution.  
+
+BONUS 3: R Markdown
 
 #### MODULE 2. Descriptive statistics
 Online Quiz 2. ([link])  
