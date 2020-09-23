@@ -27,9 +27,9 @@ TUTORIAL 1.4: Plots & Graphics in R. Structure of ggplot2 commands, scatter plot
 
 PROBLEM SET 1. (pdf) [![](img/submit.png)](#){:target="_blank"}  
 
-BONUS 1: Epidemiological Study Design. Data Entry for a statistical analysis.  
+BONUS 1: Describe patterns in string. Conditional statement. Repetitive execution.  
 
-BONUS 2: Describe patterns in string. Conditional statement. Repetitive execution.  
+BONUS 2: Epidemiological Study Design. Data Entry for a statistical analysis.  
 
 BONUS 3: R Markdown
 
