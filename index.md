@@ -15,7 +15,7 @@ TUTORIAL 1.1: Set up your computer environment. Basic commands. ([pdf](https://d
 
 TUTORIAL 1.2: Produce a script that reads matrices and data frames, manipulates them, read, and write files. ([pdf](https://drive.google.com/file/d/1VEpF8kVDijP8A3oUJX-hRux6zdaXgR8j/view?usp=sharing){:target="_blank"})  ([data](https://drive.google.com/file/d/11JhgFVdXldqEuKTj6RCtcvhPkLL03AnL/view?usp=sharing){:target="_blank"})  (Solution)    
 
-**08/10/2020** LECTURE 1.3: Packages, Input/Output. ([pdf])  
+**08/10/2020** LECTURE 1.3: Packages, Input/Output. ([pdf](https://drive.google.com/file/d/1xdZwG8vNgt19gUarwHmRsP7IsJvCFd0I/view?usp=sharing){:target="_blank"}) )  
 
 TUTORIAL 1.3: Input/Output, Packages. ([pdf])  
 
