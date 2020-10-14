@@ -17,7 +17,7 @@ TUTORIAL 1.2: Produce a script that reads matrices and data frames, manipulates 
 
 LECTURE 1.3: Packages, Input/Output. ([pdf](https://drive.google.com/file/d/1xdZwG8vNgt19gUarwHmRsP7IsJvCFd0I/view?usp=sharing){:target="_blank"})  
 
-TUTORIAL 1.3: Input/Output, Packages. ([pdf])  
+TUTORIAL 1.3: Input/Output, Packages. ([pdf](https://drive.google.com/file/d/1CBRr6uLNkcA0fbDntGxV95-9dQ9Pi2MG/view?usp=sharing){:target="_blank"})  ([data](https://drive.google.com/drive/folders/1ak00XgqjVKadejYZkfy1TmpS_OO78rYE?usp=sharing){:target="_blank"})  
 
 Online Quiz 1. ([link])  
 
