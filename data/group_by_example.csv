@@ -1,0 +1,5 @@
+Genotype,Treatment,gene,expression_value
+Control,Memantine,DYRK1A_N,0.503643884
+Control,Memantine,DYRK1A_N,0.51461708
+Control,Saline,DYRK1A_N,0.591618368
+Control,Saline,DYRK1A_N,0.58980671
