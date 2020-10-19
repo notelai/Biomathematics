@@ -1,0 +1,23 @@
+SEQN,Respondent sequence number
+BMDSTATS,Body Measures Component Status Code
+BMXWT,Weight (kg)
+BMIWT,Weight Comment
+BMXRECUM,Recumbent Length (cm)
+BMIRECUM,Recumbent Length Comment
+BMXHEAD,Head Circumference (cm)
+BMIHEAD,Head Circumference Comment
+BMXHT,Standing Height (cm)
+BMIHT,Standing Height Comment
+BMXBMI,Body Mass Index (kg/m**2)
+BMXLEG,Upper Leg Length (cm)
+BMILEG,Upper Leg Length Comment
+BMXARML,Upper Arm Length (cm)
+BMIARML,Upper Arm Length Comment
+BMXARMC,Arm Circumference (cm)
+BMIARMC,Arm Circumference Comment
+BMXWAIST,Waist Circumference (cm)
+BMIWAIST,Waist Circumference Comment
+BMXTRI,Triceps Skinfold (mm)
+BMITRI,Triceps Skinfold Comment
+BMXSUB,Subscapular Skinfold (mm)
+BMISUB,Subscapular Skinfold Comment
