@@ -36,7 +36,7 @@ PROBLEM SET 1. (pdf) [![](img/submit.png)](#){:target="_blank"}
 #### MODULE 2. Descriptive statistics
 Online Quiz 2. ([link])  
 
-LECTURE 2.1: Data Description and Graphical Representation. ([pdf])  
+LECTURE 2.1: Data Description and Graphical Representation. ([pdf](https://drive.google.com/file/d/1ClxetFlMnNLJp2o9ptyiUIE6t23I1iyU/view?usp=sharing){:target="_blank"})  
 
 TUTORIAL 2.1: Plots & Graphics in R. ([pdf])  
 
