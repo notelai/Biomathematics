@@ -38,7 +38,7 @@ Online Quiz 2. ([link])
 
 LECTURE 2.1: Data Description and Graphical Representation. ([pdf](https://drive.google.com/file/d/1ClxetFlMnNLJp2o9ptyiUIE6t23I1iyU/view?usp=sharing){:target="_blank"})  
 
-TUTORIAL 2.1: Plots & Graphics in R. ([pdf])  
+TUTORIAL 2.1: Plots & Graphics in R. ([pdf](https://drive.google.com/file/d/1t0gsFKGRXPjHs1y0f64XdFTnsU0zzNiH/view?usp=sharing){:target="_blank"})  
 
 Online Quiz 3. ([link])  
 
