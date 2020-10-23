@@ -25,7 +25,7 @@ LECTURE 1.4: Plots & Graphics in R. ([pdf])
 
 TUTORIAL 1.4: Plots & Graphics in R. Structure of ggplot2 commands, scatter plots. ([pdf])  
 
-PROBLEM SET 1. (pdf) [![](img/submit.png)](#){:target="_blank"}  
+PROBLEM SET 1. ([pdf](https://drive.google.com/file/d/1S2gr5WVG4-Kxb2ENA4lfM-VazAGnM7Bm/view?usp=sharing){:target="_blank"}) [![](img/submit.png)](#){:target="_blank"}  
 
 **BONUS 1: Describe patterns in string. Conditional statement. Repetitive execution.**  
 
