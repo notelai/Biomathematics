@@ -42,17 +42,13 @@ TUTORIAL 2.1: Plots & Graphics in R. ([pdf](https://drive.google.com/file/d/1t0g
 
 Online Quiz 3. ([link])  
 
-LECTURE 2.2: Measures of Central Tendency and Variability. ([pdf])  
-
-TUTORIAL 2.2: Practice Exploratory data analysis. ([pdf])  
-
 PROBLEM SET 2. (pdf) [SUBMIT HERE](#){:target="_blank"}  
 
 #### MODULE 3. Introduction to Probability
 Online Quiz 4. ([link])  
 
 LECTURE 3.  
-Independence, conditional probability, Bayes formula. Distributions, population mean and population variance, Binomial, Poisson, and Normal distribution. Central Limit theorem and the Law of large numbers. Continuity correction. Sampling with and without replacement. Correction for finite population size. ([pdf])  
+Distributions, population mean and population variance, Binomial, Poisson, and Normal distribution. ([pdf](https://drive.google.com/file/d/1VSrTrzNdzLCGBPWwMz0Fz-DXLR42HQKr/view?usp=sharing){:target="_blank"})  
 
 TUTORIAL 3.  
 Elementary probability problems in R, Probability Density Function and the Cumulative Distribution Function, simulation explicating the law of large numbers. ([pdf])  
@@ -60,8 +56,7 @@ Elementary probability problems in R, Probability Density Function and the Cumul
 #### MODULE 4. Statistical Inference, part I.
 Online Quiz 5. ([link])  
 
-LECTURE 4.1 ([pdf])  
-Statistical Inference, part I. ([pdf])  
+LECTURE 4.1 Statistical Inference, part I. ([pdf](https://drive.google.com/file/d/1wKlFX1ZImRpDvjMs9ijK28iLQTexhUZ-/view?usp=sharing){:target="_blank"})  
 
 TUTORIAL 4.1 One- and two-sample tests with known and unknown variance, test for proportions, simulation involving confidence intervals and t-distribution. ([pdf])  
 
